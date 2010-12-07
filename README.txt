@@ -1,6 +1,10 @@
 LaserBot
 Copyright 2010 Cheng-Lung Lee
-This repository contains dsPIC33 code for read and control XV-11 lidar data
+
+This repository contains dsPIC33 code for 
+(1) Read XV-11 lidar data and control speed of the XV-11 motor
+(2) Motor controller with position.
+(3) UART code for sending data.
 
 LaserBot spec.:
 MCU           : dsPICFJ64MC802
